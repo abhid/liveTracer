@@ -1,0 +1,15 @@
+==============================================
+Readme for the Improvized Ray Tracer - CS 5721
+==============================================
+Compiling
+* The build system used for compiling the program is cmake
+
+To build:
+* Go to the root directory
+* cmake CMakeLists.txt
+* make
+
+Running the program : Executables are in the bin directory
+* Use the provided shell scripts as guidelines for running the program
+* The necessary help files can be accessed by using the command line switch '?'
+
